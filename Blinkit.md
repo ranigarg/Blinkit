@@ -1,5 +1,5 @@
 # BlinkIT Grocery Dataset - MySQL Data Analysis
-## This project involves cleaning, analyzing, and deriving insights from a Netflix Dataset using MySQL.
+## This project involves cleaning, analyzing, and deriving insights from a BlinkIt Grocery Dataset using MySQL.
 
 Objectives:* Data Cleaning: Handling missing values, duplicates, and incorrect data types.*
             * Exploratory Data Analysis (EDA): Understanding the dataset through statistical analysis and value.*
